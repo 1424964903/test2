@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <VariableForExMan> 
+        <Data key="$illustrator">$InstallFolder/../../..</Data>
+        <Data key="$plugin">$InstallFolder/../../../Plug-ins</Data>
+        <Data key="$scripting">$InstallFolder/../../../Scripting</Data>
+        <Data key="$presets">$InstallFolder/../../../Presets</Data>        
+        <Data key="DisplayName">Illustrator CS6 32</Data>
+        <Data key="ProductName">Illustrator32</Data>
+        <Data key="FamilyName">Illustrator</Data>
+        <Data key="ProductVersion">16.0</Data>
+        <Data key="HostNameForCSXS">ILST</Data>
+        <Data key="IconPath">Configuration/ai_app_24px.png</Data>
+        <Data key="SupportedInSuite">CS6</Data>
+        <Data key="DefaultLocale">en_US</Data>
+        <Data key="Bit">32</Data>
+    </VariableForExMan>  
+</Configuration>
+
