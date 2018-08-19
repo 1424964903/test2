@@ -1,0 +1,19 @@
+Adobe Illustrator CS6 简体中文精简绿色优化版
+
+注意：安装前必须关闭所有Adobe系列软件，否则可能会出现安装不成功。
+
+此绿色版特点：
+1. 由官方简体中文正式版制作而成，只需要执行一次快速安装即可使用。已经注册，非tryout版，支持x64位系统。
+2. 精简了Extension Manager CS6,Device Central CS6,ExtendScript Toolkit CS6,帮助系统,示例,多国语言,激活系统等组件.
+3. 保留了颜色预置;PDF预置等一般精简版会缺失的功能.
+4. 使用SQLLite准确注册程序,为以后安装其他Adobe程序做好准备.
+5. 能完整关联所有Illustrator能编辑的文件。
+6. 程序不含任何第三方插件保持纯净。
+
+安装方法：
+方法一：运行“QuickSetup.exe.exe”安装软件。
+方法二：使用命令行“QuickSetup.exe.exe /i”安装；“QuickSetup.exe.exe /u”卸载。
+
+新增功能：
+Adobe Mercury Performance System,图案创建,全新的图像描摹,新增的高效、灵活的界面,描边的渐变,对面板的内联编辑,高斯模糊增强功能,颜色面板增强功能,变换面板增强功能,类型面板改进,可停靠的隐藏工具,带空间的工作区,控制面板增强功能,透明面板改进功能,纯白画布颜色,
+具体请看http://www.adobe.com/cn/products/illustrator/features._sl_id-contentfilter_sl_featuredisplaytypes_sl_new.html
